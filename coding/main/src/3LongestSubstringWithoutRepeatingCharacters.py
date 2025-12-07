@@ -18,4 +18,7 @@ class Solution:
                 findSub(s)
         findSub(s)
         return result
+    
+sol = Solution()
+print(sol.lengthOfLongestSubstring("abcabcbb"))
         
